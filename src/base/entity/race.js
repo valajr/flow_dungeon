@@ -17,3 +17,16 @@ class Race {
     this.nature_affinity_list = nature_affinity_list;   
   }
 }
+
+
+// human
+// elf
+// dwarf
+// goblin
+// werewolf
+// undead
+// vampire
+// golem
+// imp
+// draconian
+// demon
