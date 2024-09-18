@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e5b0e0bcfe6faa0c",
+        "id": "59e8d46329ca2c58",
         "type": "tabs",
         "children": [
           {
-            "id": "99d7d4ba38b9905d",
+            "id": "028a871e38e8679e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "CANVAS TESTE.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "0eeca57117efe983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teste ainda mais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd930f790adc20e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ihaa/aaaa.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ihaa/aaaa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ihaa/aaaa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ihaa/aaaa.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -166,19 +130,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7db7634c21c0d90",
+  "active": "028a871e38e8679e",
   "lastOpenFiles": [
+    "ITEM/Item.md",
+    "ENTITY/Entity/Player/Player.md",
+    "ENTITY/Entity/Entity.md",
+    "ITEM/Inventory/Lootable/Lootable.md",
+    "ITEM/Inventory/Inventory.md",
+    "ITEM/Inventory",
+    "ITEM/Consumable/Consumable.md",
+    "ITEM/Consumable",
+    "ENTITY/Class/Class.md",
+    "CONTENTS.canvas",
+    "ENTITY/Entity/Monster/Monster.md",
+    "Untitled.canvas",
+    "ENTITY/Entity/Monster/Boss/Boss.md",
+    "ENTITY/Entity/NPC/Quester/Quester.md",
+    "ENTITY/Entity/NPC/Trader/Trader.md",
+    "ENTITY/Entity/NPC/NPC.md",
+    "ENTITY/Race/Race.md",
+    "ENTITY/Skill/Skill.md",
+    "ENTITY/Status/Status.md",
+    "Excalidraw/Drawing 2024-09-18 14.55.59.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-09-18 13.57.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-18 13.57.52.excalidraw.md",
+    "Untitled Kanban.md",
+    "ENTITY/Entity/NPC/Quester",
+    "ENTITY/Entity/NPC/Trader",
+    "ENTITY/Entity/NPC",
+    "ENTITY/Entity/Monster/Boss",
+    "ENTITY/Entity/Monster",
+    "ENTITY/Entity/Player",
+    "ENTITY/Class",
     "CANVAS TESTE.canvas",
+    "aaaa.md",
     "ihaa/aaaa.md",
     "Teste ainda mais.md",
-    "ihaa"
+    "Untitled.md"
   ]
 }
