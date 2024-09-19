@@ -1,7 +1,7 @@
 inherit [[NPC]]
 
-| Attribute     | Format   | Description |
-| ------------- | -------- | ----------- |
-| TradeItemList | I.Item[] |             |
-| TradePrices   | Number[] |             |
+| Attribute     | Format     | Description |
+| ------------- | ---------- | ----------- |
+| TradeItemList | [[Item]][] |             |
+| TradePrices   | Number[]   |             |
 

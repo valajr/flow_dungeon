@@ -1,0 +1,5 @@
+inherit [[Enumerator]]
+
+| Attribute | Description |
+| --------- | ----------- |
+| -         | -           |

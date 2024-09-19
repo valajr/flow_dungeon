@@ -5,4 +5,4 @@ inherit [[Entity]]
 | TotalXp       | Number          |             |
 | ClassPoints   | Number          |             |
 | InventoryList | [[Inventory]][] |             |
-| Fame          | W.Fame          |             |
+| Fame          | [[Fame]]        |             |

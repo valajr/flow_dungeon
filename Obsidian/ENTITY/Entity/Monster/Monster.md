@@ -4,6 +4,6 @@ inherit [[Entity]]
 | ------------- | ------------ | ----------- |
 | XpDrop        | Number       |             |
 | Coins         | Number       |             |
-| DeathLootable | I.Lootable[] |             |
+| DeathLootable | [[Lootable]] |             |
 | PointsToFlee  | Number       |             |
 | FleeChance    | Number       |             |

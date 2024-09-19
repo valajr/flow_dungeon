@@ -4,21 +4,28 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:ENTITY/Entity/Monster  ",
       "color": {
         "a": 1,
-        "rgb": 10503901
+        "rgb": 16074567
       }
     },
     {
       "query": "path:ENTITY/Entity  ",
       "color": {
         "a": 1,
-        "rgb": 6333435
+        "rgb": 12400354
+      }
+    },
+    {
+      "query": "path:ENTITY  ",
+      "color": {
+        "a": 1,
+        "rgb": 4558573
       }
     },
     {
@@ -27,18 +34,39 @@
         "a": 1,
         "rgb": 16770104
       }
+    },
+    {
+      "query": "path:WORLD  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:TOOLBOX/Enum  ",
+      "color": {
+        "a": 1,
+        "rgb": 7697781
+      }
+    },
+    {
+      "query": "path:TOOLBOX  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.29947916666667,
-  "lineSizeMultiplier": 2.60104166666667,
-  "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 10,
-  "linkStrength": 0.802083333333333,
+  "nodeSizeMultiplier": 1.50364583333333,
+  "lineSizeMultiplier": 2.49895833333333,
+  "collapse-forces": true,
+  "centerStrength": 0.401041666666667,
+  "repelStrength": 9.0625,
+  "linkStrength": 0.5,
   "linkDistance": 30,
-  "scale": 0.7132754626224441,
-  "close": false
+  "scale": 0.7132754626224453,
+  "close": true
 }

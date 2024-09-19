@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiStickyNote",
+      "LiBox",
+      "LiBoxes",
       "LiAlbum"
     ],
     "recentlyUsedIconsSize": 5,
@@ -29,7 +32,20 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "ENTITY": "LiAlbum",
-  "ITEM": "LiAlbum",
-  "WORLD": "LiAlbum"
+  "ENTITY": {
+    "iconName": "LiAlbum",
+    "iconColor": "#477bf5"
+  },
+  "ITEM": {
+    "iconName": "LiAlbum",
+    "iconColor": "#fedd0b"
+  },
+  "WORLD": {
+    "iconName": "LiAlbum",
+    "iconColor": "#3fd035"
+  },
+  "TOOLBOX": {
+    "iconName": "LiBox",
+    "iconColor": "#ffffff"
+  }
 }

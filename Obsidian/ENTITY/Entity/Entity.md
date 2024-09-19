@@ -1,12 +1,11 @@
-
-| Attribute      | Format                         | Description |
-| -------------- | ------------------------------ | ----------- |
-| Level          | Number                         |             |
-| Race           | [[Race]]                       |             |
-| ClassList      | [[Class]][]                    |             |
-| ClassExpertise | Number[]                       |             |
-| Status         | Function(Base+Race+Class+Gear) |             |
-| SkillList      | Function(Race + Class + Gear)  |             |
-| GearList       | E.Gear[]                       |             |
-| BaseStatus     | [[Status]]                     |             |
-| BaseSkill      | [[Skill]]                      |             |
+| Attribute      | Format                                                        | Description |
+| -------------- | ------------------------------------------------------------- | ----------- |
+| Level          | Number                                                        |             |
+| Race           | [[Race]]                                                      |             |
+| ClassList      | [[Class]][]                                                   |             |
+| ClassExpertise | Number[]                                                      |             |
+| Status         | [[StatusGroup]] (BaseStatus + [[Race]] + [[Class]] +GearList) |             |
+| SkillList      | [[SkillGroup]] ([[Race]] + [[Class]] + GearList)              |             |
+| GearList       | [[Inventory]][]                                               |             |
+| BaseStatus     | [[Status]]                                                    |             |
+| BaseSkill      | [[Skill]]                                                     |             |

@@ -1,11 +1,11 @@
-| Attribute          | Format     | Description |
-| ------------------ | ---------- | ----------- |
-| Name               | String     |             |
-| Description        | String     |             |
-| Rarity             | W.Rarity   |             |
-| LevelRange         | T.Range    |             |
-| ExclusiveRaceList  | [[Race]][] |             |
-| BonusStatus        | E.Status   |             |
-| GearTypeBonus      | -          |             |
-| SkillList          | E.Skill    |             |
-| ExpertiseEventList | W.Event[]  |             |
+| Attribute          | Format      | Description |
+| ------------------ | ----------- | ----------- |
+| Name               | String      |             |
+| Description        | String      |             |
+| Rarity             | [[Rarity]]  |             |
+| LevelRange         | [[Range]]   |             |
+| ExclusiveRaceList  | [[Race]][]  |             |
+| BonusStatus        | [[Status]]  |             |
+| GearTypeBonus      | -           |             |
+| SkillList          | [[Skill]][] |             |
+| ExpertiseEventList | [[Event]][] |             |

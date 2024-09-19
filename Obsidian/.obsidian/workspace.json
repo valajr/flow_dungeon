@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "59e8d46329ca2c58",
+        "id": "11650361dfa4af9c",
         "type": "tabs",
         "children": [
           {
-            "id": "028a871e38e8679e",
+            "id": "429219ce80013b60",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Annotation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Annotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Annotation.md"
+              }
             }
           }
         ]
@@ -133,50 +141,52 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "switcher:Open quick switcher": false,
-      "daily-notes:Open today's daily note": false,
+      "obsidian-kanban:Create new board": true,
+      "switcher:Open quick switcher": true,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": true
     }
   },
-  "active": "028a871e38e8679e",
+  "active": "429219ce80013b60",
   "lastOpenFiles": [
-    "ITEM/Item.md",
-    "ENTITY/Entity/Player/Player.md",
-    "ENTITY/Entity/Entity.md",
-    "ITEM/Inventory/Lootable/Lootable.md",
-    "ITEM/Inventory/Inventory.md",
-    "ITEM/Inventory",
-    "ITEM/Consumable/Consumable.md",
-    "ITEM/Consumable",
-    "ENTITY/Class/Class.md",
+    "Kanban.md",
     "CONTENTS.canvas",
+    "ENTITY/Entity/Entity.md",
+    "Annotation.md",
+    "2024-09-18.md",
+    "TOOLBOX/SkillGroup.md",
+    "TOOLBOX/StatusGroup.md",
+    "ITEM/Item.md",
     "ENTITY/Entity/Monster/Monster.md",
-    "Untitled.canvas",
-    "ENTITY/Entity/Monster/Boss/Boss.md",
-    "ENTITY/Entity/NPC/Quester/Quester.md",
-    "ENTITY/Entity/NPC/Trader/Trader.md",
-    "ENTITY/Entity/NPC/NPC.md",
+    "ENTITY/Entity/Player/Player.md",
     "ENTITY/Race/Race.md",
     "ENTITY/Skill/Skill.md",
     "ENTITY/Status/Status.md",
-    "Excalidraw/Drawing 2024-09-18 14.55.59.excalidraw.md",
+    "WORLD/Event/Event.md",
+    "WORLD/Effect/Effect.md",
+    "WORLD/Dungeon/Room/Room.md",
+    "WORLD/Dungeon/Floor/Floor.md",
+    "WORLD/Dialog/Dialog.md",
+    "ITEM/Consumable/Consumable.md",
+    "ITEM/Inventory/Inventory.md",
+    "ITEM/Inventory/Lootable/Lootable.md",
+    "ITEM/Material/Material.md",
+    "ITEM/Modifier/Modifier.md",
+    "ITEM/Type/Type.md",
+    "ENTITY/Class/Class.md",
+    "ENTITY/Entity/Monster/Boss/Boss.md",
+    "TOOLBOX/Enum",
+    "TOOLBOX",
+    "ITEM/Inventory",
+    "ITEM/Consumable",
+    "Untitled.canvas",
     "Excalidraw",
-    "Excalidraw/Drawing 2024-09-18 13.57.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-18 13.57.52.excalidraw.md",
-    "Untitled Kanban.md",
     "ENTITY/Entity/NPC/Quester",
     "ENTITY/Entity/NPC/Trader",
     "ENTITY/Entity/NPC",
     "ENTITY/Entity/Monster/Boss",
     "ENTITY/Entity/Monster",
-    "ENTITY/Entity/Player",
-    "ENTITY/Class",
-    "CANVAS TESTE.canvas",
-    "aaaa.md",
-    "ihaa/aaaa.md",
-    "Teste ainda mais.md",
-    "Untitled.md"
+    "CANVAS TESTE.canvas"
   ]
 }
