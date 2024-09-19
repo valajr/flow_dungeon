@@ -1,0 +1,165 @@
+{
+  "nodePositions": [
+    {
+      "id": "ENTITY/Class/Class.md",
+      "x": 36.77376937866211,
+      "y": 85.13737487792969
+    },
+    {
+      "id": "ENTITY/Entity/Entity.md",
+      "x": -75.37601470947266,
+      "y": -139.164306640625
+    },
+    {
+      "id": "ENTITY/Entity/Monster/Boss/Boss.md",
+      "x": 398.9410705566406,
+      "y": -284.3421936035156
+    },
+    {
+      "id": "ENTITY/Entity/Monster/Monster.md",
+      "x": 211.19296264648438,
+      "y": -225.40354919433594
+    },
+    {
+      "id": "ENTITY/Entity/NPC/NPC.md",
+      "x": -110.50190734863281,
+      "y": -438.47418212890625
+    },
+    {
+      "id": "ENTITY/Entity/NPC/Quester/Quester.md",
+      "x": -260.90069580078125,
+      "y": -378.01043701171875
+    },
+    {
+      "id": "ENTITY/Entity/NPC/Trader/Trader.md",
+      "x": 254.08419799804688,
+      "y": -356.7637023925781
+    },
+    {
+      "id": "ENTITY/Entity/Player/Player.md",
+      "x": 45.53174591064453,
+      "y": -394.9011535644531
+    },
+    {
+      "id": "ENTITY/Race/Race.md",
+      "x": -186.81396484375,
+      "y": 212.95835876464844
+    },
+    {
+      "id": "ENTITY/Skill/Skill.md",
+      "x": -25.251388549804688,
+      "y": 216.64991760253906
+    },
+    {
+      "id": "ENTITY/Status/Status.md",
+      "x": 263.5639343261719,
+      "y": 115.36161041259766
+    },
+    {
+      "id": "ITEM/Consumable/Consumable.md",
+      "x": 521.6544189453125,
+      "y": -30.555830001831055
+    },
+    {
+      "id": "ITEM/Inventory/Inventory.md",
+      "x": 41.847686767578125,
+      "y": -229.914794921875
+    },
+    {
+      "id": "ITEM/Inventory/Lootable/Lootable.md",
+      "x": -275.4558410644531,
+      "y": -198.34178161621094
+    },
+    {
+      "id": "ITEM/Item.md",
+      "x": 384.2580871582031,
+      "y": -36.22037124633789
+    },
+    {
+      "id": "ITEM/Modifier/Modifier.md",
+      "x": 405.80670166015625,
+      "y": 226.4865264892578
+    },
+    {
+      "id": "TOOLBOX/Affinity.md",
+      "x": -255.55946350097656,
+      "y": 342.5104064941406
+    },
+    {
+      "id": "TOOLBOX/Enum/EBattleEvent.md",
+      "x": -378.1219482421875,
+      "y": 296.3511657714844
+    },
+    {
+      "id": "TOOLBOX/Enum/EForce.md",
+      "x": 173.33042907714844,
+      "y": 410.2017822265625
+    },
+    {
+      "id": "TOOLBOX/Enum/EGear.md",
+      "x": 156.74688720703125,
+      "y": 557.0381469726562
+    },
+    {
+      "id": "TOOLBOX/Enumerator.md",
+      "x": -90.31865692138672,
+      "y": 538.3479614257812
+    },
+    {
+      "id": "TOOLBOX/Fame.md",
+      "x": 102.23995208740234,
+      "y": -531.8294677734375
+    },
+    {
+      "id": "TOOLBOX/Range.md",
+      "x": 20.33308219909668,
+      "y": 364.5894775390625
+    },
+    {
+      "id": "TOOLBOX/Rarity.md",
+      "x": 174.88609313964844,
+      "y": 242.33604431152344
+    },
+    {
+      "id": "TOOLBOX/SkillGroup.md",
+      "x": -123.62311553955078,
+      "y": 29.57413673400879
+    },
+    {
+      "id": "TOOLBOX/StatusGroup.md",
+      "x": 214.79061889648438,
+      "y": -55.018699645996094
+    },
+    {
+      "id": "WORLD/Dialog/Dialog.md",
+      "x": -372.6632995605469,
+      "y": -421.70184326171875
+    },
+    {
+      "id": "WORLD/Dungeon/Floor/Floor.md",
+      "x": -437.71185302734375,
+      "y": 80.82206726074219
+    },
+    {
+      "id": "WORLD/Dungeon/Room/Room.md",
+      "x": -348.76190185546875,
+      "y": -72.9766616821289
+    },
+    {
+      "id": "WORLD/Effect/Effect.md",
+      "x": -524.91796875,
+      "y": -55.042022705078125
+    },
+    {
+      "id": "WORLD/Event/Event.md",
+      "x": -436.4889221191406,
+      "y": -222.83412170410156
+    },
+    {
+      "id": "ITEM/ItemType/ItemType.md",
+      "x": 326.2880859375,
+      "y": 354.60699462890625
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}

@@ -1,7 +1,6 @@
 | Attribute        | Format         | Description |
 | ---------------- | -------------- | ----------- |
-| MonsterList      | [[Monster]][]  |             |
-| NPCList          | [[NPC]][]      |             |
+| EntityList       | [[Entity]][]   |             |
 | LootableList     | [[Lootable]][] |             |
 | EnterEvent       | [[Event]]      |             |
 | LeaveEvent       | [[Event]]      |             |

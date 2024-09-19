@@ -9,5 +9,5 @@
 | Rarity                | [[Rarity]]     |             |
 | SkillList             | [[Skill]][]    |             |
 | PassiveSkillList      | [[Skill]][]    |             |
-| ExclusiveMaterialList | [[Material]][] |             |
+| ExclusiveModifierList | [[Modifier]][] |             |
 | ClassRelation         | [[Class]][]    |             |

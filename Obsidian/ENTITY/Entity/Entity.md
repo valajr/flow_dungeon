@@ -4,8 +4,9 @@
 | Race           | [[Race]]                                                      |             |
 | ClassList      | [[Class]][]                                                   |             |
 | ClassExpertise | Number[]                                                      |             |
-| Status         | [[StatusGroup]] (BaseStatus + [[Race]] + [[Class]] +GearList) |             |
-| SkillList      | [[SkillGroup]] ([[Race]] + [[Class]] + GearList)              |             |
 | GearList       | [[Inventory]][]                                               |             |
+| DeathLoot      | [[Lootable]]                                                  |             |
 | BaseStatus     | [[Status]]                                                    |             |
 | BaseSkill      | [[Skill]]                                                     |             |
+| SkillList      | [[SkillGroup]] ([[Race]] + [[Class]] + GearList)              |             |
+| Status         | [[StatusGroup]] (BaseStatus + [[Race]] + [[Class]] +GearList) |             |
