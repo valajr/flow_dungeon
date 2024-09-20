@@ -11,8 +11,12 @@
             "id": "18c600774c17410f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TOOLBOX/Math.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TOOLBOX/Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TOOLBOX/Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TOOLBOX/Math.md"
+              }
             }
           }
         ]
@@ -131,7 +139,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "juggl:Juggl global graph": false,
       "canvas:Create new canvas": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": true,
@@ -143,11 +150,14 @@
   },
   "active": "18c600774c17410f",
   "lastOpenFiles": [
+    "TOOLBOX/Fame.md",
+    "TOOLBOX/Math.md",
+    "TOOLBOX/Math",
+    "Annotation.md",
     "CONTENTS.canvas",
     "ITEM/Item.md",
     "ITEM/ItemType/ItemType.md",
     "WORLD/Event/Event.md",
-    "Annotation.md",
     "Kanban.md",
     "ITEM/Modifier/Modifier.md",
     "ITEM/Material/Material.md",
@@ -168,7 +178,6 @@
     "WORLD/Dialog/Dialog.md",
     "ITEM/Consumable/Consumable.md",
     "ITEM/Inventory/Inventory.md",
-    "ITEM/Inventory/Lootable/Lootable.md",
     "TOOLBOX/Enum",
     "TOOLBOX",
     "ITEM/Inventory",
@@ -179,7 +188,6 @@
     "ENTITY/Entity/NPC/Trader",
     "ENTITY/Entity/NPC",
     "ENTITY/Entity/Monster/Boss",
-    "ENTITY/Entity/Monster",
     "CANVAS TESTE.canvas"
   ]
 }
